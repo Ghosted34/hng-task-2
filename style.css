@@ -153,4 +153,38 @@ main section.right{
 
 .exp-left{
     min-width: 250px;
+
+}
+
+.exp-left div{
+    color: #848c84;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: .9em;
+}
+
+.exp-right .exp-pos{
+    text-transform: uppercase;
+    color: #2a7da2;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+
+.skills .article-content{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+}
+
+.card{
+    padding: 1em;
+    text-align: center;
+}
+
+.card i{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 4em;
 }
