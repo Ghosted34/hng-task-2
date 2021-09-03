@@ -1,3 +1,4 @@
-# HNG Stage 2 task
+# Resume V2.0
 
-A simple Resume site
+Responsive downloadable resumé with light/dark mode
+
