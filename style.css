@@ -71,6 +71,7 @@ a:active {
 
 .section:last-child {
   border: none;
+  margin-bottom: 0px;
 }
 
 .theme-change {
@@ -406,11 +407,11 @@ main section.right {
 
 .scale-cv main {
   max-width: 1000px;
-  max-height: 133.6vh;
+  max-height: 133vh;
 }
 
 .scale-cv main section .section {
-  padding: 1.3rem 0 0.75rem;
+  padding: 1.3rem 0 0.6rem;
 }
 
 .scale-cv .home .home-img {
